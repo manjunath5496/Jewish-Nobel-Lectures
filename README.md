@@ -75,6 +75,13 @@
                 
 25. <a href="https://en.wikipedia.org/wiki/Rita_Levi-Montalcini" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b>Rita Levi-Montalcini</b></center></font> </a></br>
                <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(25).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The nerve growth factor: thirty-five years later</center></font> </a></br>                             
-               
+ 26. <a href="https://en.wikipedia.org/wiki/Emilio_Segr%C3%A8" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Emilio Gino Segrè  </b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(26).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Properties of antinucleons</center></font> </a></br>
+                
+ 27.  <a href="https://en.wikipedia.org/wiki/Selman_Waksman" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Selman Abraham Waksman </b></center></font> </a></br>
+<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(27).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>Streptomycin: background, isolation, properties, and utilization</center></font> </a></br>
+                
+28. <a href="https://en.wikipedia.org/wiki/Otto_Wallach" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b>Otto Wallach</b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(28).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Alicyclic compounds</center></font> </a></br>             
                
                
