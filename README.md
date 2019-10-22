@@ -60,21 +60,21 @@
  20.  <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Eugene Wigner</b></center></font> </a></br>
 <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(20).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>Events, Laws of Nature, and Invariance Principles</center></font> </a></br>
                 
-12. <a href="https://en.wikipedia.org/wiki/Fritz_Haber" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b> Fritz Haber </b></center></font> </a></br>
-               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(12).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The synthesis of ammonia from its elements</center></font> </a></br>
+21. <a href="https://en.wikipedia.org/wiki/Richard_Willst%C3%A4tter" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b> Richard Martin Willstätter</b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(21).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> On plant pigments</center></font> </a></br>
  
 
-13.  <a href="https://en.wikipedia.org/wiki/Bernard_Katz" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Bernard Katz</b></center></font> </a></br>
-<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(13).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>On the quantal mechanism of neural transmitter release</center></font> </a></br>
+22.  <a href="https://en.wikipedia.org/wiki/Julius_Axelrod" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Julius Axelrod</b></center></font> </a></br>
+<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(22).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>Noradrenaline: fate and control of its biosynthesis</center></font> </a></br>
                 
-14. <a href="https://en.wikipedia.org/wiki/Fritz_Albert_Lipmann" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Fritz Albert Lipmann </b></center></font> </a></br>
-               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(14).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Development of the acetylation problem: a personal account</center></font> </a></br>
+23. <a href="https://en.wikipedia.org/wiki/Gerty_Cori" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Gerty Theresa Cori  </b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(23).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Polysaccharide phosphorylase</center></font> </a></br>
                 
- 15.  <a href="https://en.wikipedia.org/wiki/Otto_Fritz_Meyerhof" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Otto Fritz Meyerhof </b></center></font> </a></br>
-<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(15).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>Energy conversions in muscle</center></font> </a></br>
+ 24.  <a href="https://en.wikipedia.org/wiki/George_de_Hevesy" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>George de Hevesy</b></center></font> </a></br>
+<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(24).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>Some applications of isotopic indicators</center></font> </a></br>
                 
-16. <a href="https://en.wikipedia.org/wiki/Albert_A._Michelson" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b>Albert A. Michelson</b></center></font> </a></br>
-               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(16).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Recent advances in spectroscopy</center></font> </a></br>                             
+25. <a href="https://en.wikipedia.org/wiki/Rita_Levi-Montalcini" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b>Rita Levi-Montalcini</b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(25).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The nerve growth factor: thirty-five years later</center></font> </a></br>                             
                
                
                
