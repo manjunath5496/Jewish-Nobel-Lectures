@@ -5,9 +5,9 @@
                <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(2).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Energy Production in Stars</center></font> </a></br>
                 
  3.  <a href="https://en.wikipedia.org/wiki/Konrad_Emil_Bloch" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Konrad Emil Bloch</b></center></font> </a></br>
-<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The biological synthesis of cholesterol</center></font> </a></br>
+<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(3).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The biological synthesis of cholesterol</center></font> </a></br>
                 
 4. <a href="https://en.wikipedia.org/wiki/Felix_Bloch" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b> Felix Bloch</b></center></font> </a></br>
-               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(2).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The Principle of Nuclear Induction</center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(4).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The Principle of Nuclear Induction</center></font> </a></br>
  
 
