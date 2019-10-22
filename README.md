@@ -48,7 +48,33 @@
 16. <a href="https://en.wikipedia.org/wiki/Albert_A._Michelson" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b>Albert A. Michelson</b></center></font> </a></br>
                <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(16).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Recent advances in spectroscopy</center></font> </a></br>
                
-                             
+17. <a href="https://en.wikipedia.org/wiki/Paul_Ehrlich" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b> Paul Ehrlich</b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(17).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Partial cell functions</center></font> </a></br>
+               
+ 18.  <a href="https://en.wikipedia.org/wiki/Wolfgang_Pauli" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Wolfgang Ernst Pauli</b></center></font> </a></br>
+<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(18).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Exclusion principle and quantum mechanics</center></font> </a></br>
+                
+19. <a href="https://en.wikipedia.org/wiki/Otto_Stern" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Otto Stern</b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(19).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The method of molecular rays</center></font> </a></br>
+                
+ 20.  <a href="https://en.wikipedia.org/wiki/Eugene_Wigner" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Eugene Wigner</b></center></font> </a></br>
+<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(20).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>Events, Laws of Nature, and Invariance Principles</center></font> </a></br>
+                
+12. <a href="https://en.wikipedia.org/wiki/Fritz_Haber" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b> Fritz Haber </b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(12).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> The synthesis of ammonia from its elements</center></font> </a></br>
+ 
+
+13.  <a href="https://en.wikipedia.org/wiki/Bernard_Katz" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Bernard Katz</b></center></font> </a></br>
+<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(13).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>On the quantal mechanism of neural transmitter release</center></font> </a></br>
+                
+14. <a href="https://en.wikipedia.org/wiki/Fritz_Albert_Lipmann" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Fritz Albert Lipmann </b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(14).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Development of the acetylation problem: a personal account</center></font> </a></br>
+                
+ 15.  <a href="https://en.wikipedia.org/wiki/Otto_Fritz_Meyerhof" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Otto Fritz Meyerhof </b></center></font> </a></br>
+<a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(15).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center>Energy conversions in muscle</center></font> </a></br>
+                
+16. <a href="https://en.wikipedia.org/wiki/Albert_A._Michelson" target="_blank" style="text-decoration:none"> <font color="blue"> <center><b>Albert A. Michelson</b></center></font> </a></br>
+               <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(16).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Recent advances in spectroscopy</center></font> </a></br>                             
                
                
                
