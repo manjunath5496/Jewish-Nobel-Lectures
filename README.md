@@ -1,3 +1,28 @@
+ <h2 id="firstHeading" class="firstHeading" lang="en">List of Jewish Nobel laureates</h2>
+<div id="bodyContent" class="mw-body-content">
+<div id="siteSub" class="noprint">&nbsp;</div>
+<div id="mw-content-text" class="mw-content-ltr" dir="ltr" lang="en">
+<div class="mw-parser-output">
+<div class="thumb tright">
+<div class="thumbinner"><a class="image" href="rishon_lezion.jpg"><img class="thumbimage" src="rishon_lezion.jpg" srcset="rishon_lezion.jpg" alt="" width="220" height="165" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+Sign on Nobel Laureates Boulevard in&nbsp;<a title="Rishon LeZion" href="https://en.wikipedia.org/wiki/Rishon_LeZion">Rishon LeZion</a>&nbsp;saluting Jewish Nobel laureates</div>
+<div class="thumbcaption">&nbsp;</div>
+</div>
+</div>
+<p><a title="Nobel Prize" href="https://en.wikipedia.org/wiki/Nobel_Prize">Nobel Prizes</a>&nbsp;have been awarded to over 900 individuals,&nbsp;of whom at least 20% were&nbsp;<a title="Jews" href="https://en.wikipedia.org/wiki/Jews">Jews</a>&nbsp;although the&nbsp;<a class="mw-redirect" title="Jewish population" href="https://en.wikipedia.org/wiki/Jewish_population">Jewish population</a>&nbsp;comprises less than 0.2% of the&nbsp;<a class="mw-redirect" title="World's population" href="https://en.wikipedia.org/wiki/World%27s_population">world's population</a>.&nbsp;Various theories have been proposed to explain this phenomenon, which has received considerable attention.&nbsp;Israeli academics Dr. Elay Ben-Gal and Professor&nbsp;<a title="Yeshayahu Leibowitz" href="https://en.wikipedia.org/wiki/Yeshayahu_Leibowitz">Yeshayahu Leibowitz</a>, curious about the phenomenon, started to form an encyclopedia of Jewish Nobel laureates and interview as many as possible about their life and work.</p>
+<p>Jews have been recipients of all six awards. The first Jewish recipient,&nbsp;<a title="Adolf von Baeyer" href="https://en.wikipedia.org/wiki/Adolf_von_Baeyer">Adolf von Baeyer</a>, was awarded the prize in Chemistry in 1905. As of 2019, the most recent Jewish recipient was economics laureate&nbsp;<a title="Michael Kremer" href="https://en.wikipedia.org/wiki/Michael_Kremer">Michael Kremer</a>.</p>
+<p>Jewish laureates&nbsp;<a title="Elie Wiesel" href="https://en.wikipedia.org/wiki/Elie_Wiesel">Elie Wiesel</a>&nbsp;and&nbsp;<a title="Imre Kert&eacute;sz" href="https://en.wikipedia.org/wiki/Imre_Kert%C3%A9sz">Imre Kert&eacute;sz</a>&nbsp;survived the&nbsp;<a title="Extermination camp" href="https://en.wikipedia.org/wiki/Extermination_camp">extermination camps</a>&nbsp;during&nbsp;<a title="The Holocaust" href="https://en.wikipedia.org/wiki/The_Holocaust">the Holocaust</a>,&nbsp;while&nbsp;<a title="Fran&ccedil;ois Englert" href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Englert">Fran&ccedil;ois Englert</a>&nbsp;survived by being hidden in orphanages and children's homes.&nbsp;Others, such as&nbsp;<a title="Walter Kohn" href="https://en.wikipedia.org/wiki/Walter_Kohn">Walter Kohn</a>,&nbsp;<a title="Otto Stern" href="https://en.wikipedia.org/wiki/Otto_Stern">Otto Stern</a>,&nbsp;<a title="Albert Einstein" href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>,&nbsp;<a title="Hans Adolf Krebs" href="https://en.wikipedia.org/wiki/Hans_Adolf_Krebs">Hans Krebs</a>&nbsp;and&nbsp;<a title="Martin Karplus" href="https://en.wikipedia.org/wiki/Martin_Karplus">Martin Karplus</a>&nbsp;had to flee&nbsp;<a title="Nazi Germany" href="https://en.wikipedia.org/wiki/Nazi_Germany">Nazi Germany</a>&nbsp;to avoid persecution.&nbsp;Still others, including&nbsp;<a title="Rita Levi-Montalcini" href="https://en.wikipedia.org/wiki/Rita_Levi-Montalcini">Rita Levi-Montalcini</a>,&nbsp;<a class="mw-redirect" title="Herbert Hauptman" href="https://en.wikipedia.org/wiki/Herbert_Hauptman">Herbert Hauptman</a>,&nbsp;<a class="mw-redirect" title="Robert Furchgott" href="https://en.wikipedia.org/wiki/Robert_Furchgott">Robert Furchgott</a>,&nbsp;<a title="Arthur Kornberg" href="https://en.wikipedia.org/wiki/Arthur_Kornberg">Arthur Kornberg</a>, and&nbsp;<a title="Jerome Karle" href="https://en.wikipedia.org/wiki/Jerome_Karle">Jerome Karle</a>&nbsp;experienced significant&nbsp;<a title="Antisemitism" href="https://en.wikipedia.org/wiki/Antisemitism">antisemitism</a>&nbsp;in their careers.</p>
+<p><a title="Arthur Ashkin" href="https://en.wikipedia.org/wiki/Arthur_Ashkin">Arthur Ashkin</a>, a 96-year-old American Jew was, at the time of his award, the oldest person to receive a Nobel Prize.</p>
+</div>
+</div>
+</div>
+ </br>
+ 
+ <h2> </h2>
+ 
+
  1.  <a href="https://en.wikipedia.org/wiki/Robert_Aumann" target="_blank" style="text-decoration:none"> <font color="blue"> <center> <b>Robert John Aumann</b></center></font> </a></br>
 <a href="https://github.com/manjunath5496/Jewish-Nobel-Lectures/blob/master/jwn(1).pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> War and Peace</center></font> </a></br>
                 
